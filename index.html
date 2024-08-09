@@ -30,7 +30,7 @@
             font-weight: 600;
             text-decoration: underline;
             color: #070f18;
-            margin: 60px 0 40px 0;
+            margin: 40px 0 40px 0;
         }
 
         #menu {
@@ -39,8 +39,9 @@
         }
 
         #menu ul {
-            list-style: none;
+            margin: 0;
             padding: 0;
+            list-style: none;
         }
 
         #menu li {
@@ -53,7 +54,37 @@
 
         a {
             color: #070f18;
-            list-style: none;
+            text-decoration: none;
+        }
+
+        #ButtonCta {
+            background-color: #1f7cff;
+            border-radius: 50px;
+            font-family: Poppins;
+            font-size: 16px;
+            text-align: center;
+            color: #fff;
+            padding: 10px 25px;
+        }
+
+        #headerCta h1 {
+            font-family: Poppins;
+            font-size: 45px;
+            font-weight: bold;
+        }
+
+        #headerCta p {
+            font-family: Poppins;
+            font-size: 16px;
+            color: #575455;
+        }
+
+        #headerImg {
+            margin-left: 42px;
+        }
+
+        #headerImg img {
+            width: 100%;
         }
     </style>
 </head>
@@ -70,12 +101,15 @@
         </div>
     </div>
     <div class="container">
-        <div class="headerCta"></div>
-        <h1>Olá, nome é <br> Maria</h1>
-        <p>Sou programadora e gostaria de apresentar meu <br>
-            trabalho para você através deste portfólio.</p>
-            <a id="BtnCta" href=""></a>
-        <div class="headerImg"></div>
+        <div id="headerCta">
+            <h1>Olá, nome é <br> Maria</h1>
+            <p>Sou programadora e gostaria de apresentar meu <br>
+                trabalho para você através deste portfólio.</p>
+            <a id="ButtonCta" href="">Meus Serviços</a>
+        </div>
+        <div class="headerImg">
+            <img src="./images/img-section1.svg">
+        </div>
     </div>
 </body>
 
