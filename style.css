@@ -1,0 +1,179 @@
+body {
+    margin: 0 15%;
+    font-family: poppins;
+}
+
+.container {
+    display: grid;
+    grid-auto-flow: column;
+    grid-auto-columns: 1fr;
+}
+
+.gray {
+    font-size: 16px;
+    font-weight: 400;
+    line-height: 32px;
+    color: #575455;
+}
+
+#header {
+    font-family: poppins;
+    font-size: 28px;
+    font-weight: 600;
+    text-decoration: underline;
+    color: #070f18;
+    margin: 40px 0 40px 0;
+}
+
+#menu {
+    text-align: right;
+    margin-top: 49PX;
+}
+
+#menu ul {
+    margin: 0;
+    padding: 0;
+    list-style: none;
+}
+
+#menu li {
+    display: inline-block;
+    margin-left: 20px;
+    font-family: poppins;
+    text-align: center;
+    font-size: 16px;
+}
+
+a {
+    color: #070f18;
+    text-decoration: none;
+}
+
+#ButtonCta {
+    background-color: #1f7cff;
+    border-radius: 50px;
+    font-family: Poppins;
+    font-size: 16px;
+    text-align: center;
+    color: #fff;
+    padding: 10px 25px;
+}
+
+#headerCta h1 {
+    font-family: Poppins;
+    font-size: 45px;
+    font-weight: bold;
+}
+
+#headerCta .gray {
+    margin-bottom: 80px;
+}
+
+#headerImg {
+    margin-left: 42px;
+}
+
+#headerImg img {
+    width: 100%;
+}
+
+.headerLogo {
+    text-align: center;
+}
+
+#clients {
+    margin: 50px 0;
+}
+
+#headerClientText {
+    font-family: poppins;
+    font-size: 16px;
+    color: #070f18;
+    font-weight: 600;
+}
+
+#services h2.red,
+#services h1.black {
+    text-align: center;
+}
+
+#services .gray {
+    text-align: center;
+    margin-bottom: 40px;
+}
+
+h2.red {
+    color: #f75c4e;
+    font-size: 16px;
+    font-weight: 700;
+    line-height: 24px;
+}
+
+h1.black {
+    color: #000;
+    font-size: 36px;
+    font-weight: 700;
+    line-height: 54px;
+    margin-top: 0;
+}
+
+.textCenter {
+    text-align: center;
+    margin-bottom: 100px;
+}
+
+.textCenter h3 {
+    color: #070f18;
+    font-weight: 600;
+    font-size: 20px;
+    margin-bottom: 0;
+}
+
+.textCenter .gray {
+    margin-top: 0;
+}
+
+#contactForm {
+    width: 100%;
+    margin-top: 50px;
+}
+
+#contactForm {
+    margin-left: 25px;
+    text-align: left;
+}
+
+#contactForm input {
+    background-color: #f5f6fb;
+    border: none;
+    border-radius: 50px;
+    font-size: 16px;
+    color: #575455;
+    width: 70%;
+    padding: 15px 25px;
+    margin-top: 10px;
+}
+
+#contactForm button {
+    background-color: #1f7cff;
+    border-radius: 50px;
+    color: #fff;
+    font-size: 16px;
+    margin-top: 20px;
+    padding: 15px 70px;
+    border: none;
+    cursor: pointer;
+}
+
+#contact {
+    margin-bottom: 100px;
+}
+
+.portifolioImg img {
+    width: 100%;
+}
+
+.portifolioImg {
+    padding: 20px;
+    margin-bottom: 100px;
+}
