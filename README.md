@@ -13,7 +13,7 @@ Este é um portifólio fictício onde é apresentado os projetos desenvolvido po
 A ideia inicial desse projeto, é ter como base esse portifólio que servirá como uma vitrine online para que recrutadores, colegas de profissão e qualquer outra pessoa interessada possam conhecer meu trabalho e minhas competências. Ele funciona como uma extensão do meu currículo, com a vantagem de poder ser atualizado com novos projetos e experiências a qualquer momento.
 
 ## Demostração
-Para visualizar a Landing-Page do portifólio, acesse [Portifólio de Projetos](https://luizvictorino.github.io/portifolio/) ou clone o repositório para seu ambiente local:
+Para visualizar a Landing-Page do portifólio, acesse [Portifólio de Projetos](https://luizvictorino.github.io/portfolio/) ou clone o repositório para seu ambiente local:
 
 ```
 git clone https://github.com/luizvictorino/portifolio.git
