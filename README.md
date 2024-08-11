@@ -3,7 +3,6 @@
 </p>
 <p align="center">Preview Landing Page Portifólio</p>
 
-<<<<<<< HEAD
 # Landing-Page Portifólio
 >i **NOTE:** Repositório desenvolvida com base na aula pratica de `Da tela ao site` da [EscolaDNC](https://aluno.dnc.group/painel)
 
